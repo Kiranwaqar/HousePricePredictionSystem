@@ -29,7 +29,7 @@ Easy-to-use Gradio interface
 ## How to Run
 1. Clone the repository
 ```bash
-git clone https://github.com/Kiranwaqar/housing-price-prediction.git
+git clone https://github.com/Kiranwaqar/HousePricePredictionSystem.git
 cd Level_1_Task_2
 ```
 2. Create and activate a virtual environment
